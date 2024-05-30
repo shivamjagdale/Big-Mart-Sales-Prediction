@@ -10,3 +10,5 @@ This helps the sales team to understand which product to place on the shelves an
 
 Here we are using 2 Models:
 XGBRegressor and RandomForestRegressor. Download the file and test them accordingly on your machine. 🧩🖥️
+
+For some reason if you can't view the file on github or it shows an error, download the file. 🛠️⬇️
