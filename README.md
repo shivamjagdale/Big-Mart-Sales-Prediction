@@ -6,3 +6,5 @@ There is a supermarket that has several outlets around the world and they want u
 
 Now what can we derive from this predictions? If we can predict the sales revenue we can tell the company what are some of the challenges they may face in the future and what brands or products sell the most. 📊💡
 
+This helps the sales team to understand which product to place on the shelves and make marketing plans. 🛍️📋
+
