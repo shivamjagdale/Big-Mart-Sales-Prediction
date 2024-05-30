@@ -8,3 +8,5 @@ Now what can we derive from this predictions? If we can predict the sales revenu
 
 This helps the sales team to understand which product to place on the shelves and make marketing plans. 🛍️📋
 
+Here we are using 2 Models:
+XGBRegressor and RandomForestRegressor. Download the file and test them accordingly on your machine. 🧩🖥️
